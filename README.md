@@ -1,5 +1,6 @@
 # JSProject1
 GuessNumber Project 1 -- JavaScript DOM manipulation.
 <br>
---DOM Document.querySelector()
---DOM Document.addEventListner()
+1.DOM Document.querySelector()
+<br>
+2DOM Document.addEventListner()
